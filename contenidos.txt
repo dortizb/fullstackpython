@@ -1,3 +1,4 @@
-MÛdulo 1: ProgramaciÛn en Python
-MÛdulo 2: Lenguaje de Consultas a una Base de Datos
-MÛdulo 3: Fundamentos de Desarrollo Web
+M√≥dulo 1: Programaci√≥n en Python
+M√≥dulo 2: Lenguaje de Consultas a una Base de Datos
+M√≥dulo 3: Fundamentos de Desarrollo Web
+M√≥dulo 2: Desarrollo de aplicaciones web din√°micas con Python‚Äù.
